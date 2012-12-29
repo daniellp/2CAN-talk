@@ -1,0 +1,3 @@
+There is a known issue with debugging when using this version of Direct X where the debugger 
+halts on Loader Lock exceptions.  To bypass this go to the Debug menu option, then Exceptions, 
+then under "Managed Debugging Assistants" uncheck the "on Loader Lock" option.
